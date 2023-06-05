@@ -1,1 +1,4 @@
 # House-Price-Predictor
+The House Price Prediction project focuses on developing a machine learning model to accurately predict house prices in Banglore, a city in India based on various sq.ft area and location.
+The dataset used for training and evaluating the house price prediction model contains various attributes of houses, such as square footage, number of bedrooms and bathrooms, location, etc., along with their corresponding prices. The dataset is preprocessed to handle missing values, handle categorical variables, and normalize features for training the machine learning model.The house price prediction project utilizes a regression-based machine learning model to estimate house prices.
+Download the dataset from here: https://www.kaggle.com/datasets/bandhansingh/banglore-house-price-data
