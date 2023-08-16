@@ -1,4 +1,32 @@
 # House-Price-Predictor
-The House Price Prediction project focuses on developing a machine learning model to accurately predict house prices in Banglore, a city in India based on various sq.ft area and location.
-The dataset used for training and evaluating the house price prediction model contains various attributes of houses, such as square footage, number of bedrooms and bathrooms, location, etc., along with their corresponding prices. The dataset is preprocessed to handle missing values, handle categorical variables, and normalize features for training the machine learning model.The house price prediction project utilizes a regression-based machine learning model to estimate house prices. Flask is implemented for front-end.
-Download the dataset from here: https://www.kaggle.com/datasets/bandhansingh/banglore-house-price-data
+
+This is a machine learning project that aims to estimate house prices based on various attributes of houses. The project utilizes a regression-based machine learning model and provides a user-friendly web interface developed using Flask for easy interaction.
+
+
+The dataset used for training and evaluating the house price prediction model contains various attributes of houses, including square footage, number of bedrooms, number of bathrooms, location, etc
+Each house in the dataset is associated with its corresponding price, which serves as the target variable for training the machine learning model. The dataset is split into training and evaluation sets to assess the model's performance accurately.
+
+
+It employs a regression-based approach to learn the relationships between the house attributes and their prices. The model is trained on the provided dataset to make accurate price predictions for new, unseen houses.
+
+
+## Installation
+Clone this repository to your local machine:
+
+git clone https://github.com/SabaaN/house-price-predictor.git
+
+
+Navigate to the project directory:
+
+cd house-price-predictor
+
+
+Run the Flask application:
+
+python app.py
+Access the web interface in your browser at http://localhost:5000.
+
+
+
+## License
+This project is licensed under the MIT License.
