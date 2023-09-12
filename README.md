@@ -31,7 +31,7 @@ Access the web interface in your browser at http://localhost:5000.
 
 
 
-## Front-End
+## Front End
 The web interface provides an intuitive way for users to interact with the House Price Predictor. Users can input various attributes of a property, such as square footage, number of bedrooms, and location, and the application will display an estimated price based on the trained machine learning model.
 
 
