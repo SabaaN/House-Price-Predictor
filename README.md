@@ -10,27 +10,6 @@ Each house in the dataset is associated with its corresponding price, which serv
 It employs a regression-based approach to learn the relationships between the house attributes and their prices. The model is trained on the provided dataset to make accurate price predictions for new, unseen houses.
 
 
-
-
-
-## Installation
-Clone this repository to your local machine:
-
-git clone https://github.com/SabaaN/house-price-predictor.git
-
-
-Navigate to the project directory:
-
-cd house-price-predictor
-
-
-Run the Flask application:
-
-python app.py
-Access the web interface in your browser at http://localhost:5000.
-
-
-
 ## Front End
 The web interface provides an intuitive way for users to interact with the House Price Predictor. Users can input various attributes of a property, such as square footage, number of bedrooms, and location, and the application will display an estimated price based on the trained machine learning model.
 
